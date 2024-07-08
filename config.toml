@@ -2,7 +2,7 @@ baseURL = "https://noerjp.com/"
 languageCode = "en-us"
 title = "Noer JP - How to Learn Any Language"
 theme = "mainroad"
-paginate = "10"
+paginate = "5"
 disqusShortname = "noerjp"
 authorbox = true
 
@@ -18,7 +18,7 @@ authorbox = true
 toc = true
 pager = true
 post_meta = ["date", "author"]
-mainSections = ["news"]
+mainSections = ["news", "posts"]
 
 [Params.sidebar]
 home = "right"
