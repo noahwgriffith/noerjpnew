@@ -1,3 +1,63 @@
-baseURL = "http://example.org/"
+baseURL = "https://noerjp.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Noer JP - How to Learn Any Language"
+theme = "mainroad"
+paginate = "10"
+disqusShortname = "noerjp"
+authorbox = true
+
+[Author]
+name = "noer"
+bio = "AJATT since 2021. I want to help you learn a language for real, with fluency and high comprehension. I think it's a waste to sit around memorizing textbooks. あのちゃん派."
+avatar = "makoto.jpeg"
+
+[Params]
+schema = true
+description = "How to learn any language"
+authorbox = true
+toc = true
+pager = true
+post_meta = ["date", "author"]
+mainSections = ["news"]
+
+[Params.sidebar]
+home = "right"
+list = "right"
+single = "right"
+widgets = ["search", "recent", "taglist", "categories"]
+
+[[menu.main]]
+identifier = "home"
+name = "home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "intro series"
+name = "beginners click here"
+url = "/categories/intro/"
+weight = 2
+
+[[menu.main]]
+identifier = "posts"
+name = "posts"
+url = "/posts/"
+weight = 3
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 4
+
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 5
+
+[[menu.main]]
+identifier = "linktree"
+name = "linktree"
+url = "https://linktr.ee/noerjp"
+weight = 6
