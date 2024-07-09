@@ -3,8 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://noerjp.com/posts/start-here/</loc>
-    <lastmod>2023-04-28T18:05:16-04:00</lastmod>
+    <loc>https://noerjp.com/tags/advanced/</loc>
+    <lastmod>2024-07-09T13:55:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.com/tags/advice/</loc>
+    <lastmod>2024-07-09T13:55:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.com/posts/connected-speech/</loc>
+    <lastmod>2024-07-09T13:55:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.com/</loc>
+    <lastmod>2024-07-09T13:55:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.com/posts/</loc>
+    <lastmod>2024-07-09T13:55:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.com/tags/</loc>
+    <lastmod>2024-07-09T13:55:53-04:00</lastmod>
   </url>
   
   <url>
@@ -33,21 +58,6 @@
   </url>
   
   <url>
-    <loc>https://noerjp.com/</loc>
-    <lastmod>2024-07-08T13:15:32-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://noerjp.com/posts/</loc>
-    <lastmod>2024-07-08T13:15:32-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://noerjp.com/tags/</loc>
-    <lastmod>2024-07-08T13:15:32-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://noerjp.com/news/</loc>
     <lastmod>2024-07-08T12:17:24-04:00</lastmod>
   </url>
@@ -55,11 +65,6 @@
   <url>
     <loc>https://noerjp.com/news/update/</loc>
     <lastmod>2024-07-08T12:17:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://noerjp.com/tags/advice/</loc>
-    <lastmod>2023-08-26T16:09:10-04:00</lastmod>
   </url>
   
   <url>
@@ -108,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://noerjp.com/tags/advanced/</loc>
-    <lastmod>2023-05-04T11:11:01-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://noerjp.com/tags/motivation/</loc>
     <lastmod>2023-05-04T11:11:01-04:00</lastmod>
   </url>
@@ -125,6 +125,11 @@
   <url>
     <loc>https://noerjp.com/posts/what-is-immersion/</loc>
     <lastmod>2023-04-29T15:53:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.com/posts/start-here/</loc>
+    <lastmod>2023-04-28T18:05:16-04:00</lastmod>
   </url>
   
   <url>
