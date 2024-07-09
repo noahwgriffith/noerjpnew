@@ -1,10 +1,9 @@
 ---
-title: "Start Here"
+title: "START HERE"
 date: 2023-04-28T18:05:16-04:00
 tags: ['guide', 'beginner']
 categories: ["Intro"]
 draft: false
-weight: 9999
 
 ---
 
