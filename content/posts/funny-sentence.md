@@ -2,6 +2,7 @@
 title: "Why I love Kanji (And You Should Too)"
 date: 2024-07-23T21:34:40-04:00
 draft: false
+tags: ["motivation"]
 ---
 
 ## Feature Set
@@ -19,5 +20,3 @@ I've seen a lot of creative uses of kanji and furigana in my Japanese life (two 
 No. I'm not exaggerating. Sure, I could translate the literal meaning of this sentence and you could follow along with the plot. But the humor, the craftsmanship of this sentence, with the furigana, would be gone. Gone forever. Lost in translation. The only way to properly translate this sentence to someone who doesn't already have a tenuous grasp on Japanese would be a brief lesson on CJK languages. It would likely take a paragraph to explain it.
 
 Learn your language. Don't you want to be *in on it?*
-
-
